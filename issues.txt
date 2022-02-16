@@ -1,0 +1,2 @@
+1. El header debe ser responsivo ---> ¿como hacer para que el espacio del input desaparezca como lo hace en youtube?
+2. Como hacer para que el height del video se ajuste de la manera correcta ?? video tutorial no funciona, porque??
